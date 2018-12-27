@@ -1,0 +1,17 @@
+D:\다운로드\Faker프로젝트 소스 전체.vol1\Faker\bin\Release\Faker.exe.config
+D:\다운로드\Faker프로젝트 소스 전체.vol1\Faker\bin\Release\Faker.exe
+D:\다운로드\Faker프로젝트 소스 전체.vol1\Faker\bin\Release\Faker.pdb
+D:\다운로드\Faker프로젝트 소스 전체.vol1\Faker\bin\Release\Interop.WMPLib.dll
+D:\다운로드\Faker프로젝트 소스 전체.vol1\Faker\bin\Release\AxInterop.WMPLib.dll
+D:\다운로드\Faker프로젝트 소스 전체.vol1\Faker\obj\Release\Faker.csprojAssemblyReference.cache
+D:\다운로드\Faker프로젝트 소스 전체.vol1\Faker\obj\Release\Interop.WMPLib.dll
+D:\다운로드\Faker프로젝트 소스 전체.vol1\Faker\obj\Release\AxInterop.WMPLib.dll
+D:\다운로드\Faker프로젝트 소스 전체.vol1\Faker\obj\Release\Faker.csproj.ResolveComReference.cache
+D:\다운로드\Faker프로젝트 소스 전체.vol1\Faker\obj\Release\Faker.mainmenu.resources
+D:\다운로드\Faker프로젝트 소스 전체.vol1\Faker\obj\Release\Faker.Game.resources
+D:\다운로드\Faker프로젝트 소스 전체.vol1\Faker\obj\Release\Faker.LoadingForm.resources
+D:\다운로드\Faker프로젝트 소스 전체.vol1\Faker\obj\Release\Faker.Properties.Resources.resources
+D:\다운로드\Faker프로젝트 소스 전체.vol1\Faker\obj\Release\Faker.csproj.GenerateResource.cache
+D:\다운로드\Faker프로젝트 소스 전체.vol1\Faker\obj\Release\Faker.csproj.CoreCompileInputs.cache
+D:\다운로드\Faker프로젝트 소스 전체.vol1\Faker\obj\Release\Faker.exe
+D:\다운로드\Faker프로젝트 소스 전체.vol1\Faker\obj\Release\Faker.pdb
